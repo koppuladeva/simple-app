@@ -1,2 +1,2 @@
-username = devenderpatelqa
-Passwd = DSPatel@1
+def username = "devenderpatelqa"
+def Passwd = "DSPatel@1"
