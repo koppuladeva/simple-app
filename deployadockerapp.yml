@@ -22,7 +22,7 @@
     - name: Start the container
       docker_container:
         name: hariapp
-        image: "devenderpatelqa/sample-pro:1.0.0"
+        image: "devenderpatelqa/sample-pro:latest"
         state: started
         published_ports:
           - 0.0.0.0:8085:8080
